@@ -1,0 +1,4 @@
+websocket-client>=1.6.0
+pandas>=2.0.0
+plotly>=5.0.0
+ipywidgets>=8.0.0
